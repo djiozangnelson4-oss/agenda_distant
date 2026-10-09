@@ -1,8 +1,8 @@
- package agenda_distant;
+package agenda_distant;
 
 public class Rappels {
   public static void main(String[] args) {
-    System.out.println("Rappel : relire le cours ");
+    System.out.println("Rappel : relire le cours");
+    System.out.println("Rappel : rendre le TP vendredi");
   }
-    
 }
